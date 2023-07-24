@@ -41,3 +41,12 @@
 >[프로젝트 상세 설명](https://github.com/lukejihwan/foodSharing_platform-project.git) 참고
 
 ---
+
+### 3. [팩맨게임]()
+>Javascript 클래스를 활용한 팩맨게임 구현 (개인 프로젝트)
+>개발 기간: 2022.10.10 ~ 2022.11.01
+>
+>기술 스택 :
+>Javascript / html5 / css3
+>
+>[프로젝트 상세 설명]() 참고
