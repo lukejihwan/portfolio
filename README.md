@@ -46,7 +46,7 @@
 >Javascript 클래스를 활용한 팩맨게임 구현 (개인 프로젝트) <br>
 >개발 기간: 2022.10.10 ~ 2022.11.01
 >
->기술 스택 :
+>기술 스택 : <br>
 >Javascript / html5 / css3
 >
 >[프로젝트 상세 설명](https://github.com/lukejihwan/pac-man-project.git) 참고
