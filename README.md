@@ -15,6 +15,7 @@
 ## :pushpin: Contact
 - 이메일: luke9701@naver.com
 - 깃헙: https://github.com/lukejihwan
+- 블로그: https://velog.io/@luke9701
 
 </br>
 
