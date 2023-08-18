@@ -26,7 +26,7 @@
 >  
 >기술 스택:  
 >Java 8 / Spring / Maven / html5 / QueryDSL / css3
->javascript / MySQL / Spring Security / AJAX / Vue.js
+>javascript / MySQL / Spring Security / AJAX / Vue.js / AWS
 >  
 >[프로젝트 상세 설명](https://github.com/lukejihwan/Bodybuddy_project.git) 참고
 
